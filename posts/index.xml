@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lessons on linguistics</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Lessons on linguistics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Morphology</title>
+      <link>http://example.org/posts/morphology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/morphology/</guid>
+      <description>What is mophology? Morphology is the study of the form and structure of words.
+Morphemes The smallest unit of language that has meaning is a morpheme. If you try to think of an example of units of language which cannot be broken into smaller parts you discover that here are different types of morphemes - those that are words in their own right (eg. book), and those that are not (eg.</description>
+    </item>
+    
+    <item>
+      <title>Phonetics</title>
+      <link>http://example.org/posts/phonetics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/phonetics/</guid>
+      <description>What is Phonetics? Phonetics is the study of human speech.
+How do humans speak? To speak, air from the lungs travels to the larynx where the air either vibrates the vocal folds or is allowed to pass through. The airflow is shaped by the articulators in the mouth and nose.
+How are different sounds produced? To produce different sounds, we control parts of the mouth and nose to shape the air.</description>
+    </item>
+    
+    <item>
+      <title>Semantics</title>
+      <link>http://example.org/posts/semantics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/semantics/</guid>
+      <description>What is semantics? Semantics is the study of meaning in language.
+What is meaning? This is a hard concept to define and is a question that philosophers have been debating for centuries. When understanding the meaning of an utterance, the meaning is determined by the meaning of its parts, and the way they are put together - this is called the Principle of Compositionality.
+There is also a difference between the literal sentence meaning and the communicated meaning of a sentence.</description>
+    </item>
+    
+    <item>
+      <title>Sociolinguistics</title>
+      <link>http://example.org/posts/sociolinguistics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/sociolinguistics/</guid>
+      <description>What is sociolinguistics? Sociolinguistics is concerned with the use of different linguistic variants in particular linguistic and social contexts, to understand how language variation is structured linguistically and socially, and how and why language changes.
+Linguistic Variables A linguistic variable is a set of alternative ways that something can be said. These different ways of saying the same thing are called variants. There are differnt types of variation:
+ Syntactic/grammatical = sentence structure/grammatical relations</description>
+    </item>
+    
+    <item>
+      <title>Syntax</title>
+      <link>http://example.org/posts/syntax/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/syntax/</guid>
+      <description>What is syntax Syntax is the study of the structure of language.
+Constituency Sentences are made up of sub-groups of words. These constituents are a string of words in a sentence that speakers can manipulate as a single chunk. We have tests we can use to see if a string of words is a constituent. Note that one negative test does not mean the string is not a constituent.
+  Substitution If we can replace a string of words with something else we have good reason to believe is a unit (say a single word) without significantly changing the meaning, then we can conclude that the original string was a constituent, and that the whole constituent is of the same category as the single word.</description>
+    </item>
+    
+  </channel>
+</rss>
