@@ -37,8 +37,8 @@ Morphemes The smallest unit of language that has meaning is a morpheme. If you t
       
       <guid>https://emtomo.github.io/linguistics/posts/phonetics/</guid>
       <description>What is Phonetics? Phonetics is the study of human speech.
-How do humans speak? To speak, air from the lungs travels to the larynx where the air either vibrates the vocal folds or is allowed to pass through. The airflow is shaped by the articulators in the mouth and nose.
-How are different sounds produced? To produce different sounds, we control parts of the mouth and nose to shape the air.</description>
+How do humans speak? To speak, air from the lungs travels to the larynx where the air either vibrates the vocal folds or is allowed to pass through. Articulators in the mouth and nose shape the airflow to make speech sounds.
+How are different sounds produced? To produce different sounds, we change the shape of articulators in the mouth and nose including the tongue, lips and teeth, the alveolar ridge, the palate, the velum, and the nasal cavity.</description>
     </item>
     
     <item>
@@ -48,8 +48,8 @@ How are different sounds produced? To produce different sounds, we control parts
       
       <guid>https://emtomo.github.io/linguistics/posts/semantics/</guid>
       <description>What is semantics? Semantics is the study of meaning in language.
-What is meaning? This is a hard concept to define and is a question that philosophers have been debating for centuries. When understanding the meaning of an utterance, the meaning is determined by the meaning of its parts, and the way they are put together - this is called the Principle of Compositionality.
-There is also a difference between the literal sentence meaning and the communicated meaning of a sentence.</description>
+What is meaning? This is a hard concept to define and is a question that philosophers have been debating for centuries. For Linguistis, when understanding the meaning of an utterance, the meaning is determined by the meaning of its parts and the way they are put together - this is called the Principle of Compositionality.
+There is a difference between the literal sentence meaning and the communicated meaning of a sentence.</description>
     </item>
     
     <item>
@@ -59,9 +59,8 @@ There is also a difference between the literal sentence meaning and the communic
       
       <guid>https://emtomo.github.io/linguistics/posts/sociolinguistics/</guid>
       <description>What is sociolinguistics? Sociolinguistics is the study of language and society. Sociolinguists are concerned with the use of different linguistic variants in particular linguistic and social contexts.
-Linguistic Variables A linguistic variable is a set of alternative ways that something can be said. These different ways of saying the same thing are called variants. There are differnt types of variation:
- Syntactic/grammatical = sentence structure/grammatical relations
-E.g. He won’t go / He’ll not go Lexis = words</description>
+Linguistic Variables A linguistic variable is a set of alternative ways that something can be said. These different ways of saying the same thing are called variants. There are different types of variation:
+ Syntactic (sentence structure)/grammatical E.g. He won’t go / He’ll not go Lexis - words</description>
     </item>
     
     <item>
@@ -70,9 +69,8 @@ E.g. He won’t go / He’ll not go Lexis = words</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://emtomo.github.io/linguistics/posts/syntax/</guid>
-      <description>What is syntax Syntax is the study of the structure of language.
-Constituency Sentences are made up of sub-groups of words. These constituents are a string of words in a sentence that speakers can manipulate as a single chunk. We have tests we can use to see if a string of words is a constituent. Note that one negative test does not mean the string is not a constituent.
-  Substitution If we can replace a string of words with something else we have good reason to believe is a unit (say a single word) without significantly changing the meaning, then we can conclude that the original string was a constituent, and that the whole constituent is of the same category as the single word.</description>
+      <description>What is syntax? Syntax is the study of the structure of language.
+Constituency Sentences are made up of sub-groups of words. These are called constituents - a string of words in a sentence that speakers can manipulate as a single chunk. We have tests we can use to see if a string of words is a constituent. Note that one negative test does not mean the string is not a constituent.</description>
     </item>
     
   </channel>
